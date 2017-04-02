@@ -1,0 +1,14 @@
+﻿  Gra.cpp
+c:\users\runi\desktop\projekt\projekt sfml\gra.cpp(65): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\runi\desktop\projekt\projekt sfml\gra.cpp(188): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\runi\desktop\projekt\projekt sfml\gra.cpp(190): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\runi\desktop\projekt\projekt sfml\gra.cpp(192): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\runi\desktop\projekt\projekt sfml\gra.cpp(398): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+c:\users\runi\desktop\projekt\projekt sfml\gra.cpp(415): warning C4244: 'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+c:\users\runi\desktop\projekt\projekt sfml\gra.cpp(438): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  przycisk.cpp
+  main.cpp
+  Projekt sfml.vcxproj -> C:\Users\Runi\Desktop\PROJEKT\Projekt sfml\Debug\Projekt sfml.exe
+  Projekt sfml.vcxproj -> C:\Users\Runi\Desktop\PROJEKT\Projekt sfml\Debug\Projekt sfml.pdb (Full PDB)
